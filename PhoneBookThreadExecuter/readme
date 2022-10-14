@@ -1,0 +1,7 @@
+This is phonebook application you can do all CRUD operation.
+Three thread created and its managements are roled by executor services.
+To run this code on your local setup you should first download vaadin pro 
+version because crud is used in code and its only available for vaadin pro
+version. You can start your 14 days free trial for pro version. 
+
+After all configuration is done in pom.xml you can run and enjoy.
